@@ -34,6 +34,6 @@ Conversational AI chatbot built using Google Gemini API.
 
 ## Contact
 
-LinkedIn: Add your LinkedIn link
+LinkedIn: www.linkedin.com/in/aleeza-umer
 
 GitHub: https://github.com/AleezaUmer
