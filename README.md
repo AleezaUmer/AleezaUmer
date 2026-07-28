@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Aleeza Umer 👋
 
-<!--
-**AleezaUmer/AleezaUmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSAI Student at The Islamia University of Bahawalpur
 
-Here are some ideas to get you started:
+🤖 Artificial Intelligence & Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about building AI applications, Machine Learning models, and Data Science projects using Python.
+
+## Skills
+
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Pandas & NumPy
+- Scikit-learn
+- Streamlit
+- FastAPI
+- Git & GitHub
+
+## Projects
+
+### 🔹 AI Resume Screening System
+AI-based system that analyzes resumes and matches candidates with job descriptions using NLP and Machine Learning.
+
+### 🔹 Loan Risk Prediction
+Machine Learning model to predict loan approval risks.
+
+### 🔹 Multimodal AI Image Generator
+AI image generation application using Streamlit and Cloudflare Workers AI.
+
+### 🔹 Gemini AI Chatbot
+Conversational AI chatbot built using Google Gemini API.
+
+## Contact
+
+LinkedIn: Add your LinkedIn link
+
+GitHub: https://github.com/AleezaUmer
