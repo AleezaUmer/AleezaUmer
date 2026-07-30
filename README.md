@@ -1,159 +1,204 @@
-<h1 align="center">Hi 👋, I'm Aleeza Umer</h1>
-
-<h3 align="center">
-AI & Machine Learning Enthusiast | BSAI Student | Python Developer
-</h3>
+# Hi there, I'm Aleeza Umer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
 <p align="center">
-Passionate about building intelligent applications using Artificial Intelligence, Machine Learning, and Python.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Python+Developer;Building+AI+Projects;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Technologies" />
+  <a href="https://github.com/AleezaUmer">
+    <img src="https://img.shields.io/badge/GitHub-AleezaUmer-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/aleeza-umer">
+    <img src="https://img.shields.io/badge/LinkedIn-Aleeza%20Umer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.kaggle.com/aleezaumar">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 🎓 BS Artificial Intelligence Student at **The Islamia University of Bahawalpur**
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
+💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Generative AI.
 
-🌱 Currently learning Deep Learning, Computer Vision, NLP, and Generative AI
+🌱 Currently learning:
 
-💻 Building AI-powered applications using Python
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing (NLP)
+* Large Language Models (LLMs)
 
-🚀 Always eager to learn new technologies and solve real-world problems
-
----
-
-## 🚀 Featured Projects
-
-### 💬 AI Chatbot
-
-An intelligent chatbot developed using **Groq API**, **Llama Models**, and **Streamlit** to deliver fast and interactive AI conversations.
-
-**Tech Stack**
-
-Python • Streamlit • Groq API • Llama
+🚀 My goal is to build intelligent applications that solve real-world problems.
 
 ---
 
-### 🎨 Multimodal Image Generator
+# 💻 Tech Stack
 
-An AI-powered application that converts text prompts into images using **Cloudflare Workers AI** with an intuitive Streamlit interface.
+### Programming
 
-**Tech Stack**
-
-Python • Streamlit • Cloudflare Workers AI • Pillow
-
----
-
-### 📊 Telco Customer Churn Prediction API
-
-A Machine Learning API that predicts customer churn using data preprocessing, feature engineering, and classification models with FastAPI deployment.
-
-**Tech Stack**
-
-Python • Scikit-learn • Pandas • FastAPI
-
----
-
-### 📈 Retail Sales Data Analysis
-
-Performed Exploratory Data Analysis (EDA) to uncover customer behavior, sales trends, and business insights using powerful data visualization techniques.
-
-**Tech Stack**
-
-Python • Pandas • Matplotlib • Seaborn
-
----
-
-## 💻 Languages & Tools
-
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=python"/>
+</p>
 
+### AI / ML
+
+<p>
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
-
 <img src="https://skillicons.dev/icons?i=opencv"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=fastapi"/>
+### Libraries
 
-<img src="https://skillicons.dev/icons?i=git"/>
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
 
-<img src="https://skillicons.dev/icons?i=github"/>
+### Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=anaconda"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,anaconda"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
+## 💬 AI Chatbot
+
+🤖 Intelligent chatbot built using **Groq API**, **Llama Models**, and **Streamlit**.
+
+**Highlights**
+
+* Interactive AI conversations
+* Fast response generation
+* Clean Streamlit interface
+
+**Tech Stack**
+
+`Python` `Streamlit` `Groq API` `Llama`
+
+---
+
+## 🎨 Multimodal Image Generator
+
+Generate images from text prompts using AI.
+
+**Highlights**
+
+* Cloudflare Workers AI
+* Text-to-image generation
+* User-friendly interface
+
+**Tech Stack**
+
+`Python` `Streamlit` `Cloudflare Workers AI`
+
+---
+
+## 📊 Telco Customer Churn Prediction API
+
+A Machine Learning API for predicting customer churn.
+
+**Highlights**
+
+* Data preprocessing
+* Model training
+* FastAPI deployment
+
+**Tech Stack**
+
+`Python` `FastAPI` `Scikit-learn` `Pandas`
+
+---
+
+## 📈 Retail Sales Data Analysis
+
+Exploratory Data Analysis project with insightful visualizations.
+
+**Highlights**
+
+* Data Cleaning
+* Business Insights
+* Interactive Charts
+
+**Tech Stack**
+
+`Python` `Pandas` `Matplotlib` `Seaborn`
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AleezaUmer&show_icons=true&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=AleezaUmer&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AleezaUmer&theme=tokyonight"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AleezaUmer&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleezaUmer&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleezaUmer&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 🏆 GitHub Trophies
 
-- Deep Learning
-
-- Computer Vision
-
-- Machine Learning
-
-- NLP
-
-- Generative AI
-
-- Large Language Models (LLMs)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AleezaUmer&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📈 Contribution Graph
 
-<p align="left">
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AleezaUmer&theme=tokyo-night"/>
+</p>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+---
+
+# 🌱 Currently Learning
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* NLP
+* Generative AI
+* LLM Applications
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+<a href="https://github.com/AleezaUmer">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_KAGGLE_URL">
+<a href="https://www.linkedin.com/in/aleeza-umer">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/aleezaumar">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
 </p>
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+### ⭐ *"Learning, Building, and Growing Every Day."*
+
+Thanks for visiting my profile! 🚀
 
 </p>
